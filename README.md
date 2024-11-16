@@ -1,4 +1,4 @@
-# Data Dump for Farming Simulator (FS22_DataDump)
+# Data Dump for Farming Simulator (FS25_DataDump)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/w33zl/FS22_DataDump/total)
 
@@ -26,7 +26,7 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 
 [![My FS22 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
-[![My FS25 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS25.png)](FS25.md)
+[![My FS25 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS25.png)](https://www.farming-simulator.com/mods.php?title=fs2025&filter=org&org_id=140742))
 
 
 ## Open Modding Alliance
