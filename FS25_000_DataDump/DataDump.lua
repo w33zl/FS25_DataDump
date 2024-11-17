@@ -78,7 +78,7 @@ function DataDump:processChunk()
                 self.stats.functions = self.stats.functions + 1
             elseif type(value) == "table" then
                 local isClass = false
-                if self.last == "StringUtil" or "g_splitTypeManager" then --HACK: Dirty solution to prevent callstack "error" due to StringUtil being obsolete
+                if self.last == "StringUtil" or self.last == "g_splitTypeManager" then --HACK: Dirty solution to prevent callstack "error" due to StringUtil being obsolete
                     isClass = true
                 elseif value.isa ~= nil and type(value.isa) == "function" then
                     isClass = value:isa(value) -- Should only be true on the actual class, but not on derived objects
