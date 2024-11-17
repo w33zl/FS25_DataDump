@@ -14,7 +14,7 @@ E.g. if the output of Data Dump contains a global table called 'g_gui' you can t
 ## USAGE
 1. Open the developer console in FS. 
 2. Type 'ddDump' and hit [ENTER]
-3. Review the files in the '..\Documents\My Games\FarmingSimulator2022\modSettings\FS22_000_DataDump' folder
+3. Review the files in the '..\Documents\My Games\FarmingSimulator2022\modSettings\FS25_000_DataDump' folder
 
 ![alt text](WZLModding_DataDump_Console.PNG)
 
@@ -26,7 +26,7 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 
 [![My FS22 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
-[![My FS25 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS25.png)](https://www.farming-simulator.com/mods.php?title=fs2025&filter=org&org_id=140742))
+[![My FS25 Mods](https://github.com/w33zl/w33zl/raw/main/GitHubIcons_MH_FS25.png)](https://www.farming-simulator.com/mods.php?title=fs2025&filter=org&org_id=140742)
 
 
 ## Open Modding Alliance
