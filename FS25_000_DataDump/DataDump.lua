@@ -24,6 +24,10 @@ function DataDump:loadMap(filename)
     createFolder(g_currentModSettingsDirectory)
 end
 
+function DataDump:startMission()
+    -- DataDump:consoleCommandDump()
+end
+
 function DataDump:consoleCommandDump(visualize, visualizeDepth)
 
     if self.triggerProcess or self.inProgress or self.isFinalizing then
