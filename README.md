@@ -1,6 +1,6 @@
 # Data Dump for Farming Simulator (FS25_DataDump)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/w33zl/FS25_DataDump/total)
+**[DOWNLOAD](https://www.farming-simulator.com/mod.php?mod_id=303452&title=fs2025)**
 
 
 The main purpose of this mod is to save the global tables, functions, classes and variables from Farming Simulator to files. Use these files to better understand the Farming Simulator object model through reverse engineering.
