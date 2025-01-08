@@ -4,6 +4,7 @@
     <version>1.1.0.0</version>
     <title>
         <en>Data Dump</en>
+        <it></it>
     </title>
     <description>
 <en><![CDATA[
@@ -63,6 +64,25 @@ v1.1 :
 - Mise à jour pour FS25
 - Correction du problème des classes obsolètes
 ]]></fr>
+        <it><![CDATA[
+Lo scopo principale di questa mod è salvare le tabelle, le funzioni, le classi e le variabili globali di Farming Simulator in file Lua ben formati. Utilizzare questi file per comprendere meglio il modello di oggetti di Farming Simulator attraverso il reverse engineering (particolarmente utile fino al rilascio della documentazione ufficiale).
+
+Con questi oggetti globali come punto di partenza, è possibile utilizzare il comando della console 'dtSaveTable' dalla mod 'Developer PowerTools' per salvare intere tabelle Lua (e gerarchie complete di tabelle) per ulteriori analisi.
+
+Ad esempio, se l'output di Data Dump contiene una tabella globale chiamata 'g_gui', si può eseguire il comando da console 'dtSaveTable g_gui g_gui.lua 10' per salvare la tabella g_gui in un file chiamato g_gui.lua con una profondità massima di 10 livelli.
+
+USO:
+1. Aprire la console di sviluppo in FS. . 
+2. Digitare “ddDump” e premere [ENTER]. 
+3. Esaminare i file nella cartella '..\Documents\My Games\FarmingSimulator2022\modSettings\FS25_000_DataDump'.           
+
+In caso di problemi, controllare <a href=“https://github.com/w33zl/FS25_DataDump”>la mia pagina GitHub</a>.
+
+CRONOLOGIA:
+v1.1 :
+- Aggiornamento per FS25
+- Correzione delle classi obsolete            
+            ]]></it>
     </description>
     <iconFilename>icon_000_DataDump.dds</iconFilename>
     <multiplayer supported="true" />
